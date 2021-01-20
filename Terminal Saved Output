@@ -1,0 +1,51 @@
+Last login: Tue Jan 19 22:22:04 on ttys000
+amirgaffar@Amirs-MBP ~ % git status 
+fatal: Not a git repository (or any of the parent directories): .git
+amirgaffar@Amirs-MBP ~ % cd UdemyGit
+amirgaffar@Amirs-MBP UdemyGit % ls     
+starter-web
+amirgaffar@Amirs-MBP UdemyGit % cd starter-web
+amirgaffar@Amirs-MBP starter-web % ls
+404.html				hipster.txt
+README.md				humans.txt
+apple-touch-icon-precomposed.png	index.html
+crossdomain.xml				js
+css					robots.txt
+favicon.ico				simple.html
+fonts
+amirgaffar@Amirs-MBP starter-web % code hipster.txt
+amirgaffar@Amirs-MBP starter-web % git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   hipster.txt
+
+amirgaffar@Amirs-MBP starter-web % git commit
+
+My First Commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#       new file:   hipster.txt
+#
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+-- INSERT --
